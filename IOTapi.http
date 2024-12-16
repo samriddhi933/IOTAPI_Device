@@ -1,0 +1,6 @@
+@IOTapi_HostAddress = http://localhost:5152
+
+GET {{IOTapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

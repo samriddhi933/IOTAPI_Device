@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\27032799-962d-4873-8aff-dcdc4edba10b_mlm1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\27032799-962d-4873-8aff-dcdc4edba10b_mlm1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\29c2eda6-eebb-4667-9a0f-ecd9618106d6_election.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\29c2eda6-eebb-4667-9a0f-ecd9618106d6_election.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\3a398e5b-bc0f-46e6-b1a0-5c73e6961f2b_marshlogin.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\3a398e5b-bc0f-46e6-b1a0-5c73e6961f2b_marshlogin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\5a0dd968-8780-41f5-b53a-458cf8f7801a_PDO5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\5a0dd968-8780-41f5-b53a-458cf8f7801a_PDO5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\9406939d-09a5-494b-8b04-a2ca29451bbf.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\9406939d-09a5-494b-8b04-a2ca29451bbf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\9b14ff17-bb27-4e77-a548-88311b64e175.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\9b14ff17-bb27-4e77-a548-88311b64e175.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\9ca57a5d-3e8a-420e-a8b9-5e1a0f3ae9a6_mlm1.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\9ca57a5d-3e8a-420e-a8b9-5e1a0f3ae9a6_mlm1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\a606bddc-6a51-4370-864a-9cf592e7414b_PDO6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\a606bddc-6a51-4370-864a-9cf592e7414b_PDO6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\a9cb8afd-25a4-480b-9915-7091d99bd220_PDO7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\a9cb8afd-25a4-480b-9915-7091d99bd220_PDO7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\a9fb8d7d-ceca-4239-a584-38b984dc4a87.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\a9fb8d7d-ceca-4239-a584-38b984dc4a87.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\aee50072-de39-402d-8bbd-05ef411da318.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\aee50072-de39-402d-8bbd-05ef411da318.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\d9a75e05-8a42-4e6c-a164-dc394bba8837_election.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\d9a75e05-8a42-4e6c-a164-dc394bba8837_election.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\ed7feed7-cd87-493e-a72b-b1164667cf53_marshlogin.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\ed7feed7-cd87-493e-a72b-b1164667cf53_marshlogin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Samriddhi\\source\\repos\\IOTapi-05-12-2024\\IOTapi\\wwwroot\\uploads\\device_images\\f564edb0-8d1c-4775-837a-a1c46b81d039.jpg",
+      "PackagePath": "staticwebassets\\uploads\\device_images\\f564edb0-8d1c-4775-837a-a1c46b81d039.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IOTapi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IOTapi.props",
+      "PackagePath": "build\\IOTapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IOTapi.props",
+      "PackagePath": "buildMultiTargeting\\IOTapi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IOTapi.props",
+      "PackagePath": "buildTransitive\\IOTapi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
